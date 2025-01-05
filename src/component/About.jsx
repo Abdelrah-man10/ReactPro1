@@ -5,7 +5,7 @@ const About = () => {
     <>
       <section className="about py-4" id="about">
         <div className="container">
-          <div className="row">
+          <div className="row py-5">
             <h1 className="text-center">ABOUT COMPONENT</h1>
             <div
               id="title"
